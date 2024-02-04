@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script src="/tinymce/tinymce/js/tinymce/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="/tinymce/js/tinymce/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
       tinymce.init({
         selector: '#mytextarea'
